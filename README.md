@@ -1,3 +1,20 @@
+
+## Installation
+1. Clone the repository:
+```bash
+ git clone https://github.com/irfanurislam/reportTableClient.git
+```
+2. Install dependencies:
+```bash
+ npm install
+ ```
+## Usage
+To run the project, use the following command:
+```bash
+npm start
+```
+
+
 ### Store Report System
 This project is a full-stack application designed to generate and display purchase reports. It fetches data from an external API, stores it in a MySQL database, and allows users to view detailed reports on a React-based frontend. Additionally, users can generate reports with aggregated totals, including gross quantity, price, and total amounts.
 ## Features
